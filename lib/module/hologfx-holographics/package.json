@@ -1,0 +1,21 @@
+{
+	"name": "hologfx-holographics",
+	"version": "1.0.0",
+	"keywords": [
+		"Graphics",
+		"Software"
+	],
+	"manufacturer": "hologfx.io",
+	"product": "Holographics",
+	"shortname": "hologfx",
+	"description": "",
+	"main": "index.js",
+	"author": "Floris Porro <floris@hologfx.io>",
+	"license": "MIT",
+	"dependencies": {
+		"holographics-client-sdk": "^1.6.1"
+	},
+	"devDependencies": {
+		"eslint": "^6.1.0"
+	}
+}

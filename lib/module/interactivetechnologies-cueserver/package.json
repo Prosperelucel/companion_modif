@@ -1,0 +1,29 @@
+{
+  "name": "interactivetechnologies-cueserver",
+	"legacy": [
+		"interactive-technologies-cueserver"
+	],
+  "version": "1.0.1",
+  "api_version": "1.0.0",
+  "keywords": [
+    "Lighting"
+  ],
+  "manufacturer": "Interactive Technologies",
+  "product": "CueServer",
+  "shortname": "cueserver",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-interactive-technologies-cueserver.git"
+  },
+  "author": "Joseph Adams <josephdadams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfocus/companion-module-interactive-technologies-cueserver/issues"
+  },
+  "homepage": "https://github.com/bitfocus/companion-module-interactive-technologies-cueserver#readme"
+}

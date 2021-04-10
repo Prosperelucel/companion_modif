@@ -1,0 +1,19 @@
+{
+	"name": "extron-smx",
+	"version": "1.0.3",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Matrix"
+	],
+	"manufacturer": "Extron",
+	"product": "SMX Matrix",
+	"shortname": "SMX",
+	"description": "SMX Matrix plugin for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nigel Brown <eventreplay@outlook.com>",
+	"license": "MIT"
+}

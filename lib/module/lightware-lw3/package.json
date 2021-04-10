@@ -1,0 +1,22 @@
+{
+	"name": "lightware-lw3",
+	"legacy": [
+		"lightware3"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Matrix"
+	],
+	"manufacturer": "Lightware",
+	"product": "LW3",
+	"shortname": "lightwareLW3",
+	"description": "Control Lightware LW3 Equipment",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Håkon Nessjøen <haakon@bitfocus.io>",
+	"license": "MIT"
+}

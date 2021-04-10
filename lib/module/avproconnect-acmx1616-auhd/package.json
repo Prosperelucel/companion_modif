@@ -1,0 +1,26 @@
+{
+  "name": "avproconnect-acmx1616-auhd",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"description": "AVProconnect AC-MX1616-AUHD",
+	"keywords": [
+		"Matrix"
+	],
+	"manufacturer": "AVProconnect",
+	"product": " AC-MX1616-AUHD",
+	"shortname": "AC-MX1616",
+	"homepage": "https://github.com/bitfocus/companion-module-avproconnect-acmx1616-auhd#readme",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-avproconnect-acmx1616-auhd.git"
+	},
+	"author": "Andreas H. Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-avproconnect-acmx1616-auhd/issues"
+	}
+}

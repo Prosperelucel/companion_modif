@@ -1,0 +1,24 @@
+{
+	"name": "dataton-watchout",
+	"legacy": [
+		"watchout_production",
+		"watchout-production"
+	],
+	"version": "1.2.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Media Server",
+		"Software",
+		"Video"
+	],
+	"manufacturer": "Dataton",
+	"product": "Watchout",
+	"shortname": "watchout",
+	"description": "Dataton Watchout Production and Display Cluster plugin for Companion",
+	"main": "watchout-production.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Dorian Meid <meid@backstage.org>",
+	"license": "MIT"
+}

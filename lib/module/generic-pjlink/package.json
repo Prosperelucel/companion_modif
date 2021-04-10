@@ -1,0 +1,22 @@
+{
+	"name": "generic-pjlink",
+	"legacy": [
+		"pjlink"
+	],
+	"version": "1.0.2",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Projector",
+		"Protocol"
+	],
+	"manufacturer": "PJLink",
+	"product": "Projector",
+	"shortname": "pjlink",
+	"description": "PJ-Link plugin for Companion",
+	"main": "pjlink.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Roine <per.roine@gmail.com>",
+	"license": "MIT"
+}

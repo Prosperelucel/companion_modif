@@ -1,0 +1,24 @@
+{
+	"name": "shure-wireless",
+	"version": "1.0.2",
+	"api_version": "1.0.0",
+	"keywords": [ "Wireless Microphone" ],
+	"manufacturer": "Shure",
+	"product": ["ULX-D","QLX-D","Axient Digital (AD)","Microflex (MXW)"],
+	"shortname": "shure-wx",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+	"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-shure-wireless.git"
+	},
+	"author": "Joseph Adams <josephdadams@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-shure-wireless/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-shure-wireless#readme"
+}

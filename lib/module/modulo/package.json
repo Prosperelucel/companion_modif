@@ -1,0 +1,19 @@
+{
+	"name": "modulo",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Software",
+		"Media Server"
+	],
+	"manufacturer": "Modulo",
+	"product": "Media Server",
+	"shortname": "modulo",
+	"description": "Module to contol Modulo Media server ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"license": "MIT"
+}

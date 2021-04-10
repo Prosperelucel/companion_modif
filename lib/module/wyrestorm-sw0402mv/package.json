@@ -1,0 +1,21 @@
+{
+	"name": "wyrestorm-sw0402mv",
+		"version": "1.0.0",
+	"legacy": [
+		"wyrestorm-sw0402mv"
+	],
+	"api_version": "1.0.0",
+	"keywords": [
+			"Multiviewer"
+		],
+	"manufacturer": "Wyrestorm",
+	"product": "SW-0402-MV",
+	"shortname": "wyrestorm",
+	"description": "Module to control the Wyrestorm SW-0402-mv Multiviewer",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"license": "MIT"
+}

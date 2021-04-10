@@ -1,0 +1,16 @@
+{
+  "name": "analogway-picturall",
+  "version": "1.2.1",
+	"api_version": "1.0.0",
+	"keywords": [ "Protocol", "Media Server" ],
+	"manufacturer": "Analog Way",
+	"product": "Picturall Media Server",
+	"shortname": "Picturall",
+  "description": "Analog Way Picturall Media Server plugin for Companion",
+  "main": "analogway_picturall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dorian Meid <meid@backstage.org>",
+  "license": "ISC"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "denon-dn-500bd-mkii",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"description": "Denon DN-500BD MKII",
+	"keywords": [
+		"DVD-Player",
+		"Blue-Ray"
+	],
+	"manufacturer": "Denon",
+	"product": "DN-500BD MKII",
+	"shortname": "DN-500BD MKII",
+	"homepage": "https://github.com/bitfocus/companion-module-denon-dn-500bd-mkii#readme",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-denon-dn-500bd-mkii.git"
+	},
+	"author": "Andreas H. Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-denon-dn-500bd-mkii/issues"
+	}
+}

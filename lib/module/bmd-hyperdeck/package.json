@@ -1,0 +1,32 @@
+{
+	"name": "bmd-hyperdeck",
+	"legacy": [
+		"hyperdeck"
+	],
+	"version": "1.1.2",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Recording",
+		"Video",
+		"Media"
+	],
+	"manufacturer": "Blackmagic Design",
+	"product": "Hyperdeck",
+	"shortname": "hyperdeck",
+	"description": "Module to control Hyperdeck",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Roine <per.roine@gmail.com>",
+	"contributors": [
+		"Stephen Harrison <stephen@redleopard.org>",
+		"Keith Rocheck",
+		"Jeffrey Davidsz",
+		"Balte de Wit <contact@balte.nl>"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"hyperdeck-connection": "^0.4.3"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "figure53-qlab",
+	"legacy": [
+		"qlab"
+	],
+	"version": "1.2.4",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Software",
+		"Media Server"
+	],
+	"manufacturer": "Figure 53",
+	"product": "QLab",
+	"shortname": "qlab",
+	"description": "Qlab plugin for Companion",
+	"main": "qlab.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"license": "MIT"
+}

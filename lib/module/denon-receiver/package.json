@@ -1,0 +1,19 @@
+{
+	"name": "denon-receiver",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Audio"
+		],
+	"manufacturer": "Denon",
+	"product": "AV Receiver",
+	"shortname": "denon",
+	"description": "Denon plugin for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jeffrey Davidsz <jeffrey.davidsz@vicreo.eu>",
+	"license": "MIT"
+}

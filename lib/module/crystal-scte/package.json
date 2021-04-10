@@ -1,0 +1,20 @@
+{
+	"name": "crystal-scte",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol"
+	],
+	"manufacturer": "Crystal",
+	"product": "SCTE104 Inserts",
+	"shortname": "crystal-scte",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-crystal-scte.git"
+	},
+	"author": "Brad Rison <brad.rison@crystalcc.com>"
+}

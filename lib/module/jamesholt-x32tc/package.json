@@ -1,0 +1,16 @@
+{
+	"name": "jamesholt-x32tc",
+	"version": "1.0.5",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Show Control",
+		"Audio"
+	],
+	"manufacturer": "James Holt",
+	"product": "X32 Theatre Control",
+	"shortname": "x32tc",
+	"description": "X32 Theatre Control plugin for Companion",
+	"main": "x32tc.js",
+	"author": "Anthony Hunt <ant.hunt@gmail.com> & James Holt <companion@jamesholt.audio>",
+	"license": "MIT"
+}

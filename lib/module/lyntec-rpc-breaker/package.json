@@ -1,0 +1,18 @@
+{
+	"name": "lyntec-rpc-breaker",
+	"version": "1.0.2",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Electrical Sequencer"
+	],
+	"manufacturer": "LynTec",
+	"product": "LynTec RPC",
+	"shortname": "LynTec",
+	"description": "LynTec RPC plugin for Companion",
+	"main": "lyntecRPC.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Todd Murphy <todd@kingdomprod.com>",
+	"license": "MIT"
+}

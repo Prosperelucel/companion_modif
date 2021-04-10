@@ -1,0 +1,24 @@
+{
+  "name": "roland-xs42h",
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "Vision Mixer", "Matrix" ],
+	"manufacturer": "Roland",
+	"product": "XS-42H",
+	"shortname": "XS-42H",
+	"description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-roland-xs42h.git"
+  },
+  "author": "Joseph Adams <josephdadams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfocus/companion-module-roland-xs42h/issues"
+  },
+  "homepage": "https://github.com/bitfocus/companion-module-roland-xs42h#readme"
+}

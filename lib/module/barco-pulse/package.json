@@ -1,0 +1,27 @@
+{
+	"name": "barco-pulse",
+	"version": "1.1.2",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Projector",
+		"Protocol"
+	],
+	"manufacturer": "Barco",
+	"product": "UDX Pulse Projector",
+	"shortname": "pulse",
+	"description": "Barcos Pulse Platform",
+	"main": "pulse.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "William Viker <william@bitfocus.io> & Andreas Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-barco-pulse.git"
+	},
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-barco-pulse/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-barco-pulse#readme"
+}

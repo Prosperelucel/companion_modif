@@ -1,0 +1,19 @@
+{
+	"name": "christie-spyder",
+	"legacy": [
+		"spyder"
+	],
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "Image Processing" ],
+	"manufacturer": "Christie",
+	"product": "Spyder X20/X80",
+	"shortname": "spyder",
+	"description": "spyder plugin for Companion",
+	"main": "spyder.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"license": "ISC"
+}

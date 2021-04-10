@@ -1,0 +1,19 @@
+{
+	"name": "msc-router",
+	"version": "1.0.2",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Matrix"
+		],
+	"manufacturer": "MSC",
+	"product": "Router",
+	"shortname": "MSC Router",
+	"description": "MSC plugin for Companion",
+	"main": "msc.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jeffrey Davidsz <jeffrey.davidsz@vicreo.eu>",
+	"license": "MIT"
+}

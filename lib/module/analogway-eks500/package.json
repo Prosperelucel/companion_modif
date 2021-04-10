@@ -1,0 +1,26 @@
+{
+	"name": "analogway-eks500",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Image Processing"
+	],
+	"manufacturer": "Analog Way",
+	"product": "EKS 500",
+	"shortname": "Eikos",
+	"description": "Analog Way Eikos 500 plugin for Companion",
+	"main": "analogway-eks500.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Adrian Davis <themusicnerd@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-analogway-eks500.git"
+	},
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-analogway-eks500/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-analogway-eks500#readme"
+}

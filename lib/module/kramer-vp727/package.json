@@ -1,0 +1,20 @@
+{
+	"name": "kramer-vp727",
+	"legacy": ["vp727"],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Image Processing"
+	],
+	"manufacturer": "Kramer",
+	"product": "VP-747",
+	"shortname": "vp747",
+	"description": "Module to control Kramer VP 727 XL Presentation Scaler",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"homepage": "https://www.kramerav.com/Product/VP-747",
+	"license": "MIT"
+}

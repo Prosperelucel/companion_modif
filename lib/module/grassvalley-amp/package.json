@@ -1,0 +1,22 @@
+{
+	"name": "grassvalley-amp",
+	"legacy": [
+		"amp"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol"
+	],
+	"manufacturer": "Grass Valley",
+	"product": "AMP",
+	"shortname": "amp",
+	"homepage": "http://www.gvgdevelopers.com/concrete/apis/amp_protocol/",
+	"description": "Companion module for Grass Valley AMP protocol",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Håkon Nessjøen <haakon@bitfocus.io>",
+	"license": "MIT"
+}

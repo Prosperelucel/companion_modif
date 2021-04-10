@@ -1,0 +1,27 @@
+{
+		"name": "pixap-pixtimerpro",
+		"version": "1.0.4",
+		"keywords": [
+				"Software",
+				"Timing"
+		],
+		"manufacturer": "piXap",
+	"product": "piXtimer Pro",
+	"shortname": "piXtimer",
+		"homepage": "https://www.pixap.fr/products.php?ref=8&lang=en",
+		"description": "Module to control piXtimer pro countdown timer",
+		"main": "pixtimerpro.js",
+		"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"repository": {
+				"type": "git",
+				"url": "git+https://github.com/bitfocus/companion-module-pixap-pixtimerpro.git"
+		},
+		"author": "Nicolas Keesst",
+		"license": "MIT",
+		"bugs": {
+				"url": "https://github.com/bitfocus/companion-module-pixap-pixtimerpro/issues"
+		},
+		"homepage": "https://github.com/bitfocus/companion-module-pixap-pixtimerpro#readme"
+}

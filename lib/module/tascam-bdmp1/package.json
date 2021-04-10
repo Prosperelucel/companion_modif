@@ -1,0 +1,15 @@
+{
+	"name": "tascam-bdmp1",
+	"version": "0.1.5",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Media"
+	],
+	"manufacturer": "Tascam",
+	"product": "BD-MP1",
+	"shortname": "bdmp1",
+	"description": "TASCAM BD-MP1 Blu-Ray Player",
+	"main": "module.js",
+	"author": "Christian Volmering <christian@volmering.name>",
+	"license": "MIT"
+}

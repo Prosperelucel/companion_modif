@@ -1,0 +1,24 @@
+{
+	"name": "avolites-ai",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"description": "Avolites AI module",
+	"keywords": [
+		"Vision Mixer",
+		"Media Server",
+		"Software"
+	],
+	"manufacturer": "Avolites",
+	"product": "AI",
+	"shortname": "ai",
+	"homepage": "https://www.avolites.com/",
+	"main": "artnet.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nijs Jonas",
+	"license": "MIT",
+	"dependencies": {
+		"artnet-node": "haakonnessjoen/artnet-node#ee6273d"
+	}
+}

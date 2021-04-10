@@ -1,0 +1,27 @@
+{
+	"name": "7thsensedesign-delta",
+	"legacy": [
+		"7thsensedelta"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"support": {
+		"action": true,
+		"feedback": false,
+		"preset": false
+	},
+	"shortname": "delta",
+	"keywords": [
+		"Media Server"
+	],
+	"homepage": "https://7thsensedesign.com/delta-media-servers/",
+	"manufacturer": "7thSense Design",
+	"product": "Delta Media Server",
+	"description": "Module to control 7th Sense Delta Media Server",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"license": "MIT"
+}

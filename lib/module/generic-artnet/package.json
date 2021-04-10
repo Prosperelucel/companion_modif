@@ -1,0 +1,27 @@
+{
+	"name": "generic-artnet",
+	"legacy": [
+		"artnet"
+	],
+	"version": "1.0.2",
+	"api_version": "1.0.0",
+	"description": "Artnet module for Companion",
+	"keywords": [
+		"Protocol",
+		"Lighting",
+		"Generic"
+	],
+	"manufacturer": "Generic",
+	"product": "Art-Net",
+	"shortname": "artnet",
+	"homepage": "https://art-net.org.uk/",
+	"main": "artnet.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Håkon Nessjøen <haakon@bitfocus.io>",
+	"license": "MIT",
+	"dependencies": {
+		"artnet-node": "haakonnessjoen/artnet-node#ee6273d"
+	}
+}

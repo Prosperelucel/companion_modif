@@ -1,0 +1,19 @@
+{
+	"name": "barco-eventmaster-xml",
+	"version": "1.2.4",
+	"api_version": "1.0.0",
+	"manufacturer": "Barco",
+	"product": [ "Event Master xml" ],
+	"shortname": "eventmaster xml",
+	"description": "Barco EventMaster xml plugin for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Protocol",
+		"Image Processing"
+	],
+	"author": "Jeffrey Davidsz <jeffrey.davidsz@vicreo.eu>",
+	"license": "MIT"
+}

@@ -1,0 +1,22 @@
+{
+	"name": "agf-characterworks",
+	"version": "1.0.3",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Software",
+		"Graphics"
+	],
+	"manufacturer": "AGF Multimedia",
+	"product": "Characterworks",
+	"shortname": "characterworks",
+	"author": "Eddie Wettach <ewettach@gmail.com>",
+	"description": "Characterworks module for sending Characterworks commands with Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"request": "^2.88.0"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "joy-playdeck",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"description": "Playdeck (Video Playout Software)",
+	"keywords": [
+		"Video",
+		"Media",
+		"Software"
+	],
+	"manufacturer": "JOY event & media",
+	"product": "Playdeck",
+	"shortname": "Playdeck",
+	"homepage": "https://github.com/bitfocus/companion-module-joy-playdeck#readme",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-joy-playdeck.git"
+	},
+	"author": "Andreas H. Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-joy-playdeck/issues"
+	}
+}

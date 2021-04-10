@@ -1,0 +1,24 @@
+{
+  "name": "roland-xs84h",
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "Vision Mixer", "Matrix" ],
+	"manufacturer": "Roland",
+	"product": "XS-84H",
+	"shortname": "XS-84H",
+	"description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-roland-xs84h.git"
+  },
+  "author": "Joseph Adams <josephdadams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfocus/companion-module-roland-xs84h/issues"
+  },
+  "homepage": "https://github.com/bitfocus/companion-module-roland-xs84h#readme"
+}

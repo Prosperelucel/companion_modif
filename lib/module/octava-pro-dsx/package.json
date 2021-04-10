@@ -1,0 +1,27 @@
+{
+  "name": "octava-pro-dsx",
+	"version": "0.0.1",
+	"api_version": "0.1.2",
+	"description": "Octava Pro DSX",
+	"keywords": [
+		"Video",
+		"NDI"
+	],
+	"manufacturer": "Octava",
+	"product": "Pro DSX",
+	"shortname": "Octava Pro",
+	"homepage": "https://github.com/bitfocus/companion-module-octava-pro-dsx#readme",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-octava-pro-dsx.git"
+	},
+	"author": "Andreas H. Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-octava-pro-dsx/issues"
+	}
+}

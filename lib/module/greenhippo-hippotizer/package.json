@@ -1,0 +1,22 @@
+{
+	"name": "greenhippo-hippotizer",
+	"legacy": [
+		"greenhippo",
+		"green-hippo-hippotizer"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Media Server"
+	],
+	"manufacturer": "Green Hippo",
+	"product": "Hippotizer",
+	"shortname": "Hippotizer",
+	"description": "Plugin for Hippotizer by GreenHippo",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Erik Carnemalm",
+	"license": "MIT"
+}

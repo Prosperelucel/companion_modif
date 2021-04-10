@@ -1,0 +1,23 @@
+{
+	"name": "bmd-multiview4",
+	"version": "1.3.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Multiviewer",
+		"Monitor"
+	],
+	"manufacturer": "Blackmagic Design",
+	"product": "Multiview 4",
+	"shortname": "multiview4",
+	"description": "Module to control BlackMagic Design Multiview 4",
+	"homepage": "https://www.blackmagicdesign.com/products/multiview",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"contributors": [
+		"Keith Rocheck <keith.rocheck@gmail.com>"
+	],
+	"license": "MIT"
+}

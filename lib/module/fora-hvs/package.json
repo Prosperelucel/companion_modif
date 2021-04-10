@@ -1,0 +1,17 @@
+{
+	"name": "fora-hvs",
+	"version": "1.0.3",
+	"description": "For.A Hanabi Video Switcher module for Companion.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Michael Allen <michael.allen@barefootchurch.com>",
+	"license": "MIT",
+	"keywords": [
+		"Vision Mixer"
+	],
+	"manufacturer": "For.A",
+	"product": "Hanabi Video Switchers",
+	"shortname": "fora-hvs"
+}

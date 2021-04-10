@@ -1,0 +1,20 @@
+{
+	"name": "christie-projector",
+	"legacy": [
+		"christiepj"
+	],
+	"version": "2.0.3",
+	"api_version": "1.0.0",
+	"keywords": [],
+	"manufacturer": "Christie",
+	"product": "Projector",
+	"shortname": "ChristiePj",
+	"homepage": "https://www.christiedigital.com/en-us/business/products/projectors",
+	"description": "Module to conntrol various Christie projectors",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com> & Andreas Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT"
+}

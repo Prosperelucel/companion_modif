@@ -1,0 +1,20 @@
+{
+	"name": "analogway-vertige",
+	"version": "1.0.0",
+	"description": "provides basic preset recall control",
+	"keywords": [
+		"Protocol",
+		"Image Processing"
+	],
+	"manufacturer": "Analog Way",
+	"product": [
+		"Vertige"
+	],
+	"shortname": "vertige",
+	"main": "analogway-vertige.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Tim Terry",
+	"license": "MIT"
+}

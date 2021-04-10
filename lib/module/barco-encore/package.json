@@ -1,0 +1,19 @@
+{
+	"name": "barco-encore",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"description": "Barco Encore",
+	"keywords": [
+		"Image Processing"
+	],
+	"manufacturer": "Barco",
+	"product": "Encore",
+	"shortname": "encore",
+	"homepage": "https://www.barco.com/",
+	"main": "encore.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "William Viker <william@bitfocus.io>",
+	"license": "ISC"
+}

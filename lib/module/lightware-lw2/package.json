@@ -1,0 +1,22 @@
+{
+	"name": "lightware-lw2",
+	"legacy": [
+		"lightware2"
+	],
+	"version": "1.0.2",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Matrix"
+	],
+	"manufacturer": "Lightware",
+	"product": "LW2",
+	"shortname": "lightwareLW2",
+	"description": "Companion module for controlling Lightware LW2 compatible products",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Håkon Nessjøen <haakon@bitfocus.io>",
+	"license": "MIT"
+}

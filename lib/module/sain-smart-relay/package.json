@@ -1,0 +1,26 @@
+{
+  "name": "sain-smart-relay",
+	"version": "1.0.0",
+	"api_version": "0.1.2",
+	"description": "Sain Smart Relay",
+	"keywords": [
+		"Relay"
+	],
+	"manufacturer": "Sain Smart Relay",
+	"product": ["4CH", "8CH", "16Ch"],
+	"shortname": "Sain Relay",
+	"homepage": "https://github.com/bitfocus/companion-module-sain-smart-relay#readme",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-sain-smart-relay.git"
+	},
+	"author": "Andreas H. Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-sain-smart-relay/issues"
+	}
+}

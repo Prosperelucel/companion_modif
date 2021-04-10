@@ -1,0 +1,22 @@
+{
+	"name": "analogway-vio",
+	"legacy": [
+		"analogway_vio",
+		"vio"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Image Processing"
+	],
+	"manufacturer": "Analog Way",
+	"product": "VIO 4K",
+	"shortname": "vio4k",
+	"description": "Analog Way multiformat converter VIO 4K plugin for Companion",
+	"main": "analogway_vio.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Dorian Meid <meid@backstage.org>",
+	"license": "MIT"
+}

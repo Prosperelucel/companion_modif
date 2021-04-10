@@ -1,0 +1,22 @@
+{
+	"name": "newbluefx-titler",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Graphics"
+	],
+	"manufacturer": "NewBlueFX",
+	"product": "Titler 4 Live Broadcast",
+	"shortname": "titler",
+	"description": "Module to control titler 4 Live",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ws": "^7.2.0",
+		"xml2js": "^0.4.22"
+	}
+}

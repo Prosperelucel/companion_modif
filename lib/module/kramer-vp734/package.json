@@ -1,0 +1,19 @@
+{
+	"name": "kramer-vp734",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Image Processing"
+	],
+	"manufacturer": "Kramer",
+	"product": "VP-734",
+	"shortname": "vp734",
+	"description": "Module to control Kramer VP 734",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jeffrey Davidsz <jeffrey.davidsz@vicreo.eu>",
+	"homepage": "https://www.kramerav.com/Product/VP-734",
+	"license": "MIT"
+}

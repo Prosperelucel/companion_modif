@@ -1,0 +1,24 @@
+{
+  "name": "roland-vp42h",
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "Image Processing" ],
+	"manufacturer": "Roland",
+	"product": "VP-42H",
+	"shortname": "VP-42H",
+	"description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-roland-vp42h.git"
+  },
+  "author": "Joseph Adams <josephdadams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfocus/companion-module-roland-vp42h/issues"
+  },
+  "homepage": "https://github.com/bitfocus/companion-module-roland-vp42h#readme"
+}

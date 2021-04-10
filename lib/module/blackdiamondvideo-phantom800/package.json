@@ -1,0 +1,23 @@
+{
+	"name": "blackdiamondvideo-phantom800",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Matrix"
+	],
+	"manufacturer": "Black Diamond Video",
+	"product": "Phantom 800",
+	"shortname": "Phantom-800",
+	"description": "Phantom 800 plugin for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Karsten Wolf <karsten.t.wolf@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "blackdiamondvideo-phantom800"
+	}
+}

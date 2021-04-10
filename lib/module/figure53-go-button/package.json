@@ -1,0 +1,23 @@
+{
+	"name": "figure53-go-button",
+	"version": "1.0.4",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Software",
+		"Media Server"
+	],
+	"manufacturer": "Figure 53",
+	"product": "GoButton with feedback",
+	"shortname": "gobutton",
+	"description": "Go Button plugin for Companion with feedback",
+	"main": "gobutton.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Original code John A Knight Jr <jjr@ayesti.com>",
+	"contributors": [
+		"Modified for Go Button by Anthony Hunt <ant.hunt@gmail.com>"
+	],
+	"license": "MIT"
+
+}

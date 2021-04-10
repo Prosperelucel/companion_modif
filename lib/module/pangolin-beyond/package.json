@@ -1,0 +1,19 @@
+{
+	"name": "pangolin-beyond",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Generic"
+	],
+	"manufacturer": "Pangolin",
+	"product": "Beyond",
+	"shortname": "Beyond",
+	"description": "Module for controlling pangolin beyond laser software over OSC",
+	"main": "osc.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nijs Jonas",
+	"license": "MIT"
+}

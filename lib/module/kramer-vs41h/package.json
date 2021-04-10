@@ -1,0 +1,17 @@
+{
+	"name": "kramer-vs41h",
+	"version": "1.0.0",
+	"api_version": "1.0.o",
+	"keywords": [ "Image Processing" ],
+	"manufacturer": "Kramer",
+	"product": "VS-41H",
+	"shortname": "kramer-vs41h",
+	"description": "Module to control a Kramer VS-41H HDMI Switcher",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Steve Therrien <git@stevetherrien.ca>",
+	"homepage": "https://www.kramerav.com/",
+	"license": "MIT"
+}

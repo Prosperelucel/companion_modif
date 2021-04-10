@@ -1,0 +1,17 @@
+{
+	"name": "christie-pandorasbox",
+	"version": "2.0.2",
+	"api_version": "1.0.0",
+	"keywords": [ "Media Server" ],
+	"manufacturer": "Christie Digital Systems",
+	"product": "Pandoras Box",
+	"shortname": "christie-pb",
+	"homepage": "https://www.christiedigital.com/emea/business/products/media-servers/pandoras-box",
+	"description": "Module to control Christie Pandoras Box Media Servers",
+	"main": "christie-pandorasbox.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Daniel Kaminski <daniel@dk-production.de>",
+	"license": "MIT"
+}

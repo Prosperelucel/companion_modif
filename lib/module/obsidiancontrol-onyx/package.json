@@ -1,0 +1,22 @@
+{
+	"name": "obsidiancontrol-onyx",
+	"version": "1.0.2",
+	"description": "A Companion module to control Onyx and M-Series based lighting systems",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "MIT",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Lighting"
+	],
+	"manufacturer": [
+		"elation",
+		"martin"
+	],
+	"product": "ONYX",
+	"shortname": "onyx",
+	"homepage": "https://www.obsidiancontrol.com",
+	"author": "Oliver Herrmann <oliver@monoxane.com>"
+}

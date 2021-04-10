@@ -1,0 +1,19 @@
+{
+	"name": "globalcache-itac-cc",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+	"Generic"
+	],
+	"manufacturer": "Global Cache",
+	"product": "iTach IP2CC",
+	"shortname": "ip2cc",
+	"description": "Companion Module for Global Cache IP to Contact Closure device.",
+	"homepage": "https://www.globalcache.com/products/itach/ip2cc-pspecs/",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Casey Selph <cxselph@gmail.com>",
+	"license": "MIT"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "tesla-smart",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Matrix"
+		],
+	"manufacturer": "Tesla",
+	"product": "smart 8>1",
+	"shortname": "Tesla kvm",
+	"description": "Tesla Smart plugin for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jeffrey Davidsz <jeffrey.davidsz@vicreo.eu>",
+	"license": "MIT"
+}

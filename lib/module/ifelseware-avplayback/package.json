@@ -1,0 +1,23 @@
+{
+	"name": "ifelseware-avplayback",
+	"legacy": [
+		"avplayback"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"description": "Control module for AV Playback",
+	"keywords": [
+		"Video",
+		"Software"
+	],
+	"manufacturer": "if-else{Ware}",
+	"product": "AV-Playback",
+	"shortname": "avplayback",
+	"homepage": "https://www.ifelseware.com/",
+	"main": "avplayback.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Røine <per.roine@gmail.com>",
+	"license": "ISC"
+}

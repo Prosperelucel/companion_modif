@@ -1,0 +1,27 @@
+{
+  "name": "media-player-classic",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"description": "Media Player Classic",
+	"keywords": [
+		"Video",
+		"Media"
+	],
+	"manufacturer": "MPC-HC",
+	"product": "Media Player Classic",
+	"shortname": "MPC",
+ 	"homepage": "https://github.com/bitfocus/companion-module-media-player-classic#readme",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-media-player-classic.git"
+	},
+	"author": "Andreas H. Thomsen <mc-hauge@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-media-player-classic/issues"
+	}
+}

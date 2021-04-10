@@ -1,0 +1,19 @@
+{
+	"name": "gallery-virtualvtrpro",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"VTR"
+	],
+	"manufacturer": "Gallery",
+	"product": "Virtual VTR",
+	"shortname": "virtual-vtr",
+	"description": "Module to control Gallery Virtual VTR Software",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+
+	"author": "Jonathan Bond",
+	"license": "MIT"
+}

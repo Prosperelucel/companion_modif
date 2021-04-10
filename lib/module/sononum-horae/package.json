@@ -1,0 +1,22 @@
+{
+	"name": "sononum-horae",
+	"legacy": [
+		"horae"
+	],
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Software",
+		"Timecode"
+	],
+	"manufacturer": "Sononum",
+	"product": "Horae",
+	"shortname": "horae",
+	"description": "",
+	"main": "horae.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Daniel Richert <daniel.richert@svv.fi>",
+	"license": "MIT"
+}
